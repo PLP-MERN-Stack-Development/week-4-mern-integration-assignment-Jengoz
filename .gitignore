@@ -1,0 +1,4 @@
+# Ignore MongoDB database files
+mern-blog-app/mongodbdata/
+
+
